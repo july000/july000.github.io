@@ -1,5 +1,5 @@
 url: https://july000.github.io
-remote_theme: sylhare/Type-on-Strap  
+theme: minima 
 title: July Blogs 
 description: "A website with blog posts and pages" 
 markdown: GFM
